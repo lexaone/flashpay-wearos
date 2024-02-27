@@ -1,3 +1,6 @@
+# UPD: tweak this app to work with mirpay instead of google wallet
+
+
 # Flashpay for Samsung Galaxy Watches and TicWatch Pro 3/5 users
 <table>
 <tr>

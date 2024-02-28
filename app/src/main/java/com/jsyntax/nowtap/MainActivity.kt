@@ -27,7 +27,8 @@ class MainActivity : Activity() {
         // ***********************
         // UPDATE THESE TO YOUR APPS
         // REBUILD APK and INSTALL if you want to customize
-        private const val WALLET_PACKAGE = "ru.nspk.mirpay"
+        //private const val WALLET_PACKAGE = "ru.nspk.mirpay"
+        private const val WALLET_PACKAGE = "me.thedise.mirpayinvoke"
         // ***********************
 
         private var LUX_THRESHOLD: Float = 0f // near pitch black, above 10 is dim but not a situation where you'd use a flashlight, 20 is quite bright

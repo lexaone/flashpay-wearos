@@ -44,5 +44,6 @@
     </application>
     <queries>
     <package android:name="ru.nspk.mirpay" />
+        <package android:name="me.thedise.mirpayinvoke" />
   </queries>
 </manifest>
